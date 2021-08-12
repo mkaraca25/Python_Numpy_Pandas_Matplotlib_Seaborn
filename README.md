@@ -1,2 +1,2 @@
-# Python_Numpy_Pandas_Matplotlib_Seaborn
+# Python&Numpy&Pandas&Matplotlib&Seaborn
 Kendimce yaptıgım calısma reposudur.
